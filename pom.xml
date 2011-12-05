@@ -86,7 +86,7 @@
   </reporting>
   <scm>
     <url>https://github.com/trickl/trickl-matrixunit</url>
-    <connection>scm:git:ssh://git@github.com/trickl/trickl-matrixunit.git</connection>
+    <connection>scm:git://github.com/trickl/trickl-matrixunit.git</connection>
   </scm>
   <dependencies>
     <dependency>
