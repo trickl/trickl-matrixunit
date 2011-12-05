@@ -4,9 +4,9 @@ This is a Java library that adds some Junit assertions for the comparison of mat
 
 Downloads
 =========
-The library can be downloaded as a binary or source package from [https://github.com/gemstonetiger/trickl-matrixunit/downloads](https://github.com/gemstonetiger/trickl-matrixunit/downloads "Distribution download page").
+The library can be downloaded as a binary or source package from [https://github.com/trickl/trickl-matrixunit/downloads](https://github.com/trickl/trickl-matrixunit/downloads "Distribution download page").
 
-The source can be also retrieved straight from the Git repository: `git clone git@github.com:gemstonetiger/trickl-matrixunit.git`.
+The source can be also retrieved straight from the Git repository: `git clone git@github.com:trickl/trickl-matrixunit.git`.
 
 Requirements
 ------------
